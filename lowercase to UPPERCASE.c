@@ -5,5 +5,4 @@ int main() {
     scanf("%c",&lower);
     char upper = lower - 32; 
     printf("The uppercase of %c is %c",lower,upper);
-    return 0;
 }
