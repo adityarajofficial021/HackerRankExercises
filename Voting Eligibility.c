@@ -10,6 +10,4 @@ int main() {
     else{
         printf("Not Eligible");
     }
- 
-    return 0;
 }
