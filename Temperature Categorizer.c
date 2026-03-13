@@ -13,5 +13,4 @@ int main() {
     else if(temp > 30){
         printf("Hot");
     }
-    return 0;
 }
